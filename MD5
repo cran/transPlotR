@@ -1,0 +1,10 @@
+56a3333a484985b6bb44c965df84edca *DESCRIPTION
+32e765a0e78d5dca295a42ec8cd4d9f9 *LICENSE
+3b5ae976c8bad891dac4d0a84b7ad14a *NAMESPACE
+0a2de474616b84122fa7122e639fd90f *R/trancriptVis.R
+b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
+e05dbfa47a7c1bdce0ce6ab63a2eff1b *README.md
+71df89f751e9d4a589d457667befc9ce *data/gtf.rda
+0dd249a3e57335c801ca5bc66307dc41 *man/gtf.Rd
+8f4aad003a999fae004ba9361f9a99d6 *man/pipe.Rd
+06d75c64b2254e662328f3a829d6540c *man/trancriptVis.Rd
